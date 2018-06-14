@@ -4,4 +4,6 @@
 [](This is a test repository for translating documentations using Git.)
 これは Git を使ってドキュメンテーションを翻訳するためのテストリポジトリです。
 
-This is a new line.
+[](This is a new line.)
+これは新しい行です。
+
